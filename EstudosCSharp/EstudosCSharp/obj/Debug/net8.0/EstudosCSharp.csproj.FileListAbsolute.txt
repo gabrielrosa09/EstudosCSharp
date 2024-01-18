@@ -1,0 +1,14 @@
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\bin\Debug\net8.0\EstudosCSharp.exe
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\bin\Debug\net8.0\EstudosCSharp.deps.json
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\bin\Debug\net8.0\EstudosCSharp.runtimeconfig.json
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\bin\Debug\net8.0\EstudosCSharp.dll
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\bin\Debug\net8.0\EstudosCSharp.pdb
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.AssemblyInfoInputs.cache
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.AssemblyInfo.cs
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.csproj.CoreCompileInputs.cache
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.dll
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\refint\EstudosCSharp.dll
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.pdb
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\EstudosCSharp.genruntimeconfig.cache
+C:\temp\projetos\EstudosCSharp\EstudosCSharp\obj\Debug\net8.0\ref\EstudosCSharp.dll

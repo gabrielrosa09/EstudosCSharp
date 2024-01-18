@@ -1,0 +1,14 @@
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\bin\Debug\net8.0\EstudosOOCSharp.exe
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\bin\Debug\net8.0\EstudosOOCSharp.deps.json
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\bin\Debug\net8.0\EstudosOOCSharp.runtimeconfig.json
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\bin\Debug\net8.0\EstudosOOCSharp.dll
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\bin\Debug\net8.0\EstudosOOCSharp.pdb
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.AssemblyInfoInputs.cache
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.AssemblyInfo.cs
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.csproj.CoreCompileInputs.cache
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.dll
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\refint\EstudosOOCSharp.dll
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.pdb
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\EstudosOOCSharp.genruntimeconfig.cache
+C:\temp\projetos\EstudosOOCSharp\EstudosOOCSharp\obj\Debug\net8.0\ref\EstudosOOCSharp.dll
